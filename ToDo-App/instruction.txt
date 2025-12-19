@@ -1,0 +1,10 @@
+For setup - Open Backend Folder and Open cmd than write the line - pip install -r requirements.txt
+
+How to Run
+
+Open Backend Folder and Open cmd than write the line - uvicorn main:app --reload
+
+
+Open Fontend Folder and Open cmd than write the line - python -m http.server 8080
+
+And than Open any browser and write - http://localhost:8080

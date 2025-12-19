@@ -1,0 +1,48 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background: #09d0f3f0;
+  padding: 20px;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  background: rgb(2, 41, 104);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #070104;
+}
+h1 {
+  text-align: center;
+  color: #ffffff;
+}
+input, button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+}
+button {
+  background: #5ad11e;
+  color: rgb(41, 15, 78);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.task {
+  padding: 10px;
+  margin: 5px 0;
+  background: #ba3dd9;
+  border-left: 4px solid #010000;
+}
+.done {
+  text-decoration: line-through;
+  color: #1c1717e9;
+}
+#analyticsBox {
+  margin-top: 20px;
+  padding: 15px;
+  background: #6282b5;
+  border-radius: 8px;
+  text-align: center;
+  color: #000000;
+  font-size: 18px;
+}
